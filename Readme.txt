@@ -1,2 +1,4 @@
-Fully working PHP/AJAX contact form is available in the pro version.
-You can buy it from: https://eftnosstsolution.github.io/eftnosstsolutions-bootstrap-business-template/
+Theme Name: TEENOFES TECH SOLUTIONS
+Theme URL: https://eftnosstsolutions.github.io/eftnosstsolutions-template/
+Author: eftnosstsolutions.github.io
+Author URL: https://eftnosstsolutions.github.io/
